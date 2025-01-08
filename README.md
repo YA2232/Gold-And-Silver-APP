@@ -1,16 +1,19 @@
-# api_app
+### **3. Gold and Silver Price App**
 
-A new Flutter project.
+```markdown
+# Gold and Silver Price App
 
-## Getting Started
+### Description:
+An app that fetches and displays the current prices of gold and silver. It uses an API to get real-time price data.
 
-This project is a starting point for a Flutter application.
+### Features:
+- Fetch current prices for gold and silver.
+- Display the data in a clean UI.
+- Refresh the data at regular intervals.
+- State management using `Provider`.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Technologies Used:
+- Flutter
+- Dart
+- HTTP (API consumption)
+- `Provider`
