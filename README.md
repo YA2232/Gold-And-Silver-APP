@@ -1,6 +1,3 @@
-### **3. Gold and Silver Price App**
-
-```markdown
 # Gold and Silver Price App
 
 ### Description:
